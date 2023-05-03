@@ -2,7 +2,7 @@
 
 ## 🚀 À propos de moi
 
-Je suis un développeur full-stack avec une expertise particulière en front-end. Mon expérience et mes compétences me permettent de créer des sites web dynamiques et réactifs pour différents types d'applications.
+Je suis un développeur full-stack avec une expertise particulière en front-end. Mon expérience et mes compétences me permettent de créer des sites et applications web dynamiques et réactifs pour différents types de besoins.
 
 ## 💻 Compétences techniques
 
