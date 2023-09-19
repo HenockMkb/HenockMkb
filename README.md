@@ -25,4 +25,4 @@ Je suis passionné par le développement web et j'aime apprendre constamment de 
 ## 💬 Contact
 
 Si vous avez des questions ou souhaitez discuter de projets potentiels, n'hésitez pas à me contacter à l'adresse e-mail suivante: [henockmkb@gmail.com](mailto:henockmkb@gmail.com).
-Ou par Whatsapp via ce numero : [+243 976 336 093](tel:+243976336093).
+Ou par Whatsapp via ce numero : [+243-976-336-093](tel:+243976336093).
