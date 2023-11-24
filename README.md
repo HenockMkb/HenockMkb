@@ -22,7 +22,7 @@ Je suis passionné par le développement web et j'aime apprendre constamment de 
 -   Les nouvelles technologies de développement web et les tendances émergentes
 -   Les applications mobiles et les technologies associées
 
-Mon engagement à rester à la pointe des nouvelles technologies du web me pousse à constamment innover et à explorer de nouvelles méthodologies pour offrir des solutions de qualité supérieure. Mon objectif est de créer des expériences web fluides, esthétiques et fonctionnelles.
+Ma passion à rester à la pointe des nouvelles technologies du web me pousse à constamment innover et à explorer de nouvelles méthodologies pour offrir des solutions de qualité supérieure. Mon objectif est de créer des expériences web fluides, esthétiques et fonctionnelles.
 
 ## 💬 Prêt à démarrer ?
 
