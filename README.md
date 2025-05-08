@@ -2,7 +2,7 @@
 
 ## 🚀 Votre partenaire de confiance pour des projets web exceptionnels
 
-Je suis un développeur web expérimenté avec plus de 6 ans d'expérience, passionné par la création d'applications et de sites web innovants et performants. Ma spécialisation dans le développement front-end combinée à une solide expérience en gestion de projets garantit des solutions web sur mesure, adaptées à vos besoins spécifiques.
+Je suis un développeur web expérimenté passionné par la création d'applications et de sites web innovants et performants. Ma spécialisation dans le développement front-end combinée à une solide expérience en gestion de projets garantit des solutions web sur mesure, adaptées à vos besoins spécifiques.
 
 ## 💻 Expertise technique
 
