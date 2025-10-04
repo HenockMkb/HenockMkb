@@ -26,4 +26,4 @@ Ma passion à rester à la pointe des nouvelles technologies du web me pousse à
 
 ## 💬 Prêt à démarrer ?
 
-Si vous cherchez à concrétiser vos idées en projets web exceptionnels, je suis là pour vous accompagner. Contactez-moi dès aujourd'hui par e-mail à [henockmkb@gmail.com](mailto:henockmkb@gmail.com) ou sur WhatsApp au [+243 976 336 093](https://wa.me/+243976336093).
+Si vous cherchez à concrétiser vos idées en projets web exceptionnels, je suis là pour vous accompagner. Contactez-moi dès aujourd'hui par e-mail à [contact@henock-mkb.com](mailto:contact@henock-mkb.com) ou [henockmkb@gmail.com](mailto:henockmkb@gmail.com) ou sur WhatsApp au [+243 976 336 093](https://wa.me/+243976336093).
